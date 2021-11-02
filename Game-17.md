@@ -1,0 +1,7 @@
+# Game 17
+## Haadi Majeed
+### 1/11/2021
+
+I was not aware that Einstein was deemed a failure by his family and worked a generic job that had nothing to do with what he would be known for for years before moving and challenging physics. The detection of black holes is very interesting as it is knowing there is a star where I should be looking, but there is visibily not one. Einstein was able to figure out that using a total solar eclipse to use the sun to bend light around it using sun's gravity. The assembly of many physicists in such a short heads up in an era where mail takes eons to get from point A to point B. The dude's wife just kinda sat there in a meeting and just watched. There is also the point that his first paper/publishment was unacknowledged for a while until somebody realised how galaxy brain it actually was. I find it incredible that he had the knowledge and courage to go against Newton's findings, something that was so well known in the community and accepted as factual truth. 
+
+Overall, I think he had a lot of knowledge and his curiosity stemmed after working for a few years doing nothing interesting since we covered a side of Einstein that I was not aware of prior to this. It makes me wonder how many other big minds struggled hard in the beginning before making signifigant progerss in the field. It gives me a bit of optimisim as I get rejection letters from companies regualarly
