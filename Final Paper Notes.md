@@ -5,6 +5,9 @@
 2. https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=988732
 3. https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5116368
 4. https://link.springer.com/content/pdf/10.1007/978-3-662-45673-6.pdf
+5. https://d1wqtxts1xzle7.cloudfront.net/58983077/A_Review_on_Development_and_Analysis_of_Maglev_Train20190421-35463-38x724-with-cover-page-v2.pdf?Expires=1639423605&Signature=aHZBkIrOtreYiDQF~Ms11iJhWq5g582nojnB2pVnbYxKKREbn15PaSvI~X4vH-frBlJb2jb1JIfYWADA-cBK90huqxLvNNrZmZv~zovbDch18tMDX02IK2wuUbjDW1a6ZwncCVTJWccsDUcHXqBJwvQQC0GmxmVxSg5fTLBXGK9xzRVBKdCpyU5uWKr0q4ro6KO3D-21B08favgAvUgJgYEoqoaiiTdRaBo0ktv8iihY1mXwH0EbNpad02x797Wi2b2-nwkDHU-M7KTe1GRwVsm4zmeTAsLeXgT4WaSPP9qPrAkgiRN-RkZDfowakRvkFmE3qOTKwOMVf6x1NzeWHg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA 
+6. https://www.britannica.com/technology/locomotive-vehicle#ref527823 
+7. 
 
 ---
 
@@ -34,7 +37,12 @@ M. Ono, S. Koga and H. Ohtsuki, "Japan's superconducting Maglev train," in IEEE 
 
 #### Notes
 - Runs at 500 km /h
-- Uses a Linear Synchronous Motor (LSM) that consists of a superconducting magnet on the train and an [armature coil](https://en.wikipedia.org/wiki/Armature_(electrical)) in the ground 
+- Uses a Linear Synchronous Motor (LSM) that consists of a superconducting magnet on the train and an [armature coil](https://en.wikipedia.org/wiki/Armature_(electrical)) in the ground  
+- 
 
 ### 3
 H. Liu, X. Zhang and W. Chang, "PID Control to Maglev Train System," 2009 International Conference on Industrial and Information Systems, 2009, pp. 341-343, doi: 10.1109/IIS.2009.24.
+
+## 4
+
+## 5
