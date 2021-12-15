@@ -43,6 +43,37 @@ M. Ono, S. Koga and H. Ohtsuki, "Japan's superconducting Maglev train," in IEEE 
 ### 3
 H. Liu, X. Zhang and W. Chang, "PID Control to Maglev Train System," 2009 International Conference on Industrial and Information Systems, 2009, pp. 341-343, doi: 10.1109/IIS.2009.24.
 
-## 4
+### 4
 
-## 5
+### 5
+
+### 6
+
+
+---
+# Outline
+1. Intro
+2. Basic History of trains until Maglev
+   1. First Steam Engine / Who did the patent and evolution
+   2. First Diesel engine and implementation and evolution
+   3. First Electric engine and implementation and evolution
+3. First patent
+   1. Who
+   2. How
+   3. When
+4. How it works
+   1. Link back to paragraph 1
+   2. Graphs and schematics on how
+   3. Maths
+5. First Build and Results / First Implementation
+   1. Was it successful, a failure?
+      1. What made it so?
+   1. Where and when was it done?
+   2. How was it used?
+7. Pros vs Cons against Normal trains
+   1. What does it do better than normal trains
+   2. What does it do worse
+   3. What can it not do that normal can
+   4. What can it do that normal cannot
+8. Conclusion
+   1. Why or why not should it be implemented more 
