@@ -7,7 +7,8 @@
 4. https://link.springer.com/content/pdf/10.1007/978-3-662-45673-6.pdf
 5. https://d1wqtxts1xzle7.cloudfront.net/58983077/A_Review_on_Development_and_Analysis_of_Maglev_Train20190421-35463-38x724-with-cover-page-v2.pdf?Expires=1639423605&Signature=aHZBkIrOtreYiDQF~Ms11iJhWq5g582nojnB2pVnbYxKKREbn15PaSvI~X4vH-frBlJb2jb1JIfYWADA-cBK90huqxLvNNrZmZv~zovbDch18tMDX02IK2wuUbjDW1a6ZwncCVTJWccsDUcHXqBJwvQQC0GmxmVxSg5fTLBXGK9xzRVBKdCpyU5uWKr0q4ro6KO3D-21B08favgAvUgJgYEoqoaiiTdRaBo0ktv8iihY1mXwH0EbNpad02x797Wi2b2-nwkDHU-M7KTe1GRwVsm4zmeTAsLeXgT4WaSPP9qPrAkgiRN-RkZDfowakRvkFmE3qOTKwOMVf6x1NzeWHg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA 
 6. https://www.britannica.com/technology/locomotive-vehicle#ref527823 
-7. 
+7. https://www.maglevboard.net/en/research/13-maglev-board/untermenu-facts/17-the-inventors-of-maglev-technology 
+8. https://patents.google.com/patent/US714851A/en 
 
 ---
 
